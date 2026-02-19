@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Israel
 
-I’m a **Full-Stack Developer** based in :contentReference[oaicite:0]{index=0} 🇪🇹  
+I’m a **Full-Stack Developer** based in Ethiopia 🇪🇹 
 
 I build things fast.  
 If an idea pops into my head, chances are I’ll **build it and ship it**.
